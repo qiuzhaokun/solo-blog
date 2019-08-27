@@ -1,4 +1,4 @@
-<p align="center"><img alt="Larry's Blog" src="https://qiuzhaokun.oss-cn-beijing.aliyuncs.com/solo/favicon.ico"></p><h2 align="center">
+<p align="center"><img alt="Larry's Blog" src="https://oss.qiuzhaokun.com/solo/favicon.ico"></p><h2 align="center">
 Larry's Blog
 </h2>
 
